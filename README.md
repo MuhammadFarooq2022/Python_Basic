@@ -1,2 +1,2 @@
 # Python_Basic
-In this repository, I am learning basic Python programming for Data Analyis and Data Science. 🐍📊. It's an exciting journey!".
+In this repository, I learned basic Python programming for Data Analyis and Data Science. 🐍📊. It was an exciting journey!".
